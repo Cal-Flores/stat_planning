@@ -69,7 +69,7 @@ STATS:
         buff2: '',
         buff_acc: 0,
         buff2_acc: 0,
-        image: 'https://64.media.tumblr.com/bee5b4150e08d22f7351d037813cd8b9/13fcef64824dd1b2-da/s1280x1920/f260dbaffb68a41c3554c15561f909841cf1b9dc.jpg'
+        image: ''
     },
 ]
 

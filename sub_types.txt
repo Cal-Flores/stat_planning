@@ -1,0 +1,201 @@
+ATTACK && EMIITER
+    1. Netero
+    2. Bisky -R
+    3. Killua -R
+
+ATTACK && DEFENSE
+    1. Buff Bisky
+    2. Uvogin
+    3. Attack Titan ???? DOMAUN
+    4. Female Titan
+    5. Choji -R
+
+ATTACK && CURSE
+    1. Todo
+    2. Itadori
+
+ATTACK && NINJUTSU
+    1. Sage Naruto
+    2. Phinks
+    3. Paladin Gon
+    4. Knuckle -R
+    5. Hisoka -R
+    6. Tsunade -R
+    7. Sakura -R
+
+ATTACK && SPEED
+    1. Adult Gon
+    2. Neji
+    3. Neferpitou -R
+    4. Porco -R
+    5. Chakra Naruto -R
+
+ATTACK && CURSE TOOL
+    1. Rock Lee
+    2. Might Guy -R
+    3. Kishibe -R
+    4. Nanami -R
+    5. Maki -R
+/////////////////////////////////////
+
+CURSE TOOL && GENJUTSU
+    1. Akatsuki Sasuke
+    2. Hanzo
+
+CURSE TOOL && SPEED
+    1. Mikasa
+    2. Kobeni
+    3. Anbu Kakashi -R
+    4. Levi -R
+
+CURSE TOOL && LUCK
+    1. Chainsaw Man
+    2. Kasumi
+
+CURSE TOOL && CURSE
+    1. Aki
+    2. Nobunaga
+    3. Hunter Killua
+    4. Orochimaru -R
+    5. Power -R
+
+CURSE TOOL && EMISSION
+    1. Noritoshi
+    2. Pokkle -R
+    3. Suigetsu -R
+    4. Franklin -R
+    5. Temari -R
+    6. Nobara -R
+
+CURSE TOOL && DEFENSE
+    1. Katana Man
+////////////////////////////////
+
+NINJUTSU && DOMAIN
+    1. Pain
+    2. Sasuke
+    3. Juubito -R
+    4. Kaguya -R
+    5. Kabuto -R
+
+NINJUTSU && EMISSION
+    1. Obito
+    2. Hashirama
+    3. Kisame
+    4. Amaterasu Sasuke -R
+    5. Itachi -R
+    6. Yamato -R
+    7. Kakazu -R
+
+NINJUTSU && GENJUTSU
+    1. Ino
+    2. Karin
+    3. Ponzu -R
+    4. Shino -R
+
+NINJUTSU && CURSE TOOL
+    1. Shizuke
+    2. Machi
+    3. Asuma
+
+NINJUTSU && SPEED
+    1. Six Paths Naruto
+    2. Kurama
+    3. Minato -R
+
+////////////////////////////////////
+
+SPEED && EMISSION
+    1. Tobirama
+    2. Godspeed Killua
+    3. Rage Tobi
+    3. Feitan -R
+
+SPEED && GENJUTSU
+    1. Ikalgo
+
+LUCK && GENJUTSU
+    1. Pakunoda
+    2. Kortopi
+
+LUCK && CURSE
+    1. Himeno
+    2. Melody
+
+LUCK && ATTACK && CURSE TOOL
+    1. Leorio
+    2. Mai
+/////////////////////////////////////
+
+CURSE && GENJUTSU
+    1. Toge
+    2. Illumi -R
+    3. Shalnark -R
+
+CURSE && DOMAIN
+    1. Mahito
+    2. Gojo
+    3. Sakuna
+
+CURSE && NINJUTSU
+    1. Geto
+    2. Shikamaru -R
+
+CURSE && DEFENSE
+    1. Mechamaru
+
+///////////////////////////////////////
+GENJUTSU && DOMAIN
+    1. Anbu Itachi
+    2. Bonolenov
+    3. Shaiapouf -R
+
+GENJUTSU && EMISSION
+    1. Momo
+    2. Kalluto
+
+GENJUTSU && ATTACK
+    1. Masked Man
+
+///////////////////////////////////////
+EMISSION && DOMAIN
+    1. Konan
+    2. Beast Titan
+
+EMISSION && CURSE
+    1. Sai
+    2. Sasori
+    3. Megumi
+///////////////////////////////////////////
+
+DEFENSE && EMISSION
+    1. Menthuthuyoupi
+    2. Shukaku
+
+DEFENSE && NINJUTSU
+    1. Killer Bee
+    2. Panda
+
+DEFENSE && DOMAIN
+    1. Gaara
+
+/////////////////////////////////
+
+DOMAIN && CURSE TOOL
+    1. Kurapika
+
+DOMAIN && LUCK
+    1. Makima
+
+BALANCED && SPECIAL
+    1. Denji
+    2. Kakashi
+    3. Hinata
+    4. Kurapika
+    5. Gon
+    6. Shuriken
+    7. Zetrsu
+    8.Kiba
+    1. Madara'
+    2. Ging
+    3. kite
