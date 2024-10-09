@@ -42,6 +42,7 @@ const evasion1 = ["Projection-Sorcery", "Boogie-Woogie", "Flying-Rajin", 'Flash'
 const attacking1 = ["Divergent-Fist", "Blade", 'Mutation'];
 const defense1 = ["Reverse", 'Veil'];
 const critical1 = ["Black-Flash"];
+const tool = ["Overtime"]
 const strength1 = ["Muscular-Expansion", 'Polymorphic'];
 const potency1 = ["Disaster-Flames", "Hairpin", "Resonance"];
 const magic_defense1 = ["Simple-Barrier"];
