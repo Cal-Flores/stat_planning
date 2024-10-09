@@ -6,7 +6,7 @@ ATTACK && EMIITER
 ATTACK && DEFENSE
     1. Buff Bisky
     2. Uvogin
-    3. Attack Titan ???? DOMAUN
+    3. Attack Titan
     4. Female Titan
     5. Choji -R
 
@@ -58,9 +58,9 @@ CURSE TOOL && CURSE
     3. Hunter Killua
     4. Orochimaru -R
     5. Power -R
+    6.  Noritoshi
 
 CURSE TOOL && EMISSION
-    1. Noritoshi
     2. Pokkle -R
     3. Suigetsu -R
     4. Franklin -R
@@ -109,7 +109,7 @@ SPEED && EMISSION
     1. Tobirama
     2. Godspeed Killua
     3. Rage Tobi
-    3. Feitan -R
+    4. Feitan -R
 
 SPEED && GENJUTSU
     1. Ikalgo
@@ -194,8 +194,8 @@ BALANCED && SPECIAL
     4. Kurapika
     5. Gon
     6. Shuriken
-    7. Zetrsu
-    8.Kiba
-    1. Madara'
+    7. Zetsu
+    8. Kiba
+    1. Madara
     2. Ging
     3. kite

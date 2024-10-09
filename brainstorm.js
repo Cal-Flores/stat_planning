@@ -82,7 +82,7 @@ Shield
 Magic
 Magic - Defense
 
-Luck - 15 | 10 | 6 | 4 | 2
+Luck - 13 | 10 | 6 | 4 | 2
 Genjutsu
 Willpower
 Purity
@@ -95,3 +95,6 @@ Drain
 
 Curse - 70 | 52 | 35 | 28 | 20
 Negative
+
+
+Ninjutsu - Damage - 600 | 250 | 195 | 165 | 135
