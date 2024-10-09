@@ -23,7 +23,7 @@
         weapon_amount: 25,
         //SPEED / LUCK
         accuracy: 7,
-        evasion: 8,
+        evasion: 9,
         luck: 6,
         stun: .05,
         //GENJUTSU
