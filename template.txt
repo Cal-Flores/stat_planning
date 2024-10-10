@@ -5,34 +5,35 @@
 
 ADVANCED (3):
 Weapon
-Luck
-curse
+Evasion
+Drain
 
 ABOVE (3):
-Curse
 Attack
-Defense
-
-MID(3):
 Shield
 Accuracy
-Evasion
+
+
+MID(3):
+Luck
+Magic Defense
+Recovery
 
 
 BELOW(3):
-Magic Defense
+Genjutsu
+Magic
 Willpower
-Recovery
+Defense
 
 DOGWATER(4):
-Magic
-Domain
-Drain
+Curse
+Purity
 Negative
-Genjutsu
+Domain
 
 AWAKEN(opt):
-Purity
+
 
 
  {

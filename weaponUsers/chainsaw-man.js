@@ -39,7 +39,7 @@
         curse_duration: 6,
         curse_cost: 20,
         //DOMAIN
-        dom_purity: 4,
+        dom_purity: 3,
         dom_lethal: 0,
         dom_duration: 0,
         dom_cost: 0,
