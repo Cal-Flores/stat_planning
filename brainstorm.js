@@ -93,7 +93,7 @@ Accuracy
 Recovery - 12 | 8 | 5 | 4 | 3
 Drain
 
-Curse - 70 | 52 | 35 | 28 | 20
+Curse - 70 (Gojo-level)| 52 | 35 | 28 | 20
 Negative
 
 
