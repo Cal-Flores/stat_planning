@@ -1,5 +1,6 @@
     STATS:
 
+<<<<<<< HEAD
 
 
 ADVANCED (4):
@@ -33,10 +34,43 @@ Genjutsu
 Magic
 Willpower
 
+=======
+
+
+
+ADVANCED (4):
+weapon
+attack
+evasion
+
+
+ABOVE (3):
+willpower
+purity
+
+
+MID(3)
+defense
+shield
+accuracy
+Recovery
+
+BELOW(3):
+magic defense
+evasion
+drain
+Magic
+
+DOGWATER(4):
+domain
+genjutsu
+negative
+luck
+>>>>>>> 530a0928f34e64ed1211d6a03fd8aaf94cac2673
 
 
 AWAKEN(opt):
-
+curse
 
 
  {
@@ -105,3 +139,22 @@ AWAKEN(opt):
         buff2_acc: 0,
         image: 'https://static.wikia.nocookie.net/hunterxhunter/images/6/60/HxH2011_EP41_Uvogin_Portrait.png/revision/latest?cb=20230122192913'
     },
+
+
+
+
+
+
+
+
+
+
+attack  defense
+weapon  shield
+Magic   magic defense
+genjutsu    willpower
+domain      purity
+accuracy    evasion
+Recovery    drain
+curse       negative
+luck

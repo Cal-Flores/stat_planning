@@ -24,7 +24,7 @@
         //SPEED / LUCK
         accuracy: 7,
         evasion: 3,
-        luck: 7,
+        luck: 4,
         stun: .08,
         //GENJUTSU
         genjutsu: 3,
@@ -38,7 +38,7 @@
         cursed_recovery: 30,
         negative_energy: 20,
         cursed_tech: 'Overtime',
-        curse_amount: 60,
+        curse_amount: 45,
         curse_duration: 100,
         curse_cost: 38,
         //DOMAIN
