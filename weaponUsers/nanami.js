@@ -38,7 +38,7 @@
         cursed_recovery: 30,
         negative_energy: 20,
         cursed_tech: 'Overtime',
-        curse_amount: 60,
+        curse_amount: 45,
         curse_duration: 100,
         curse_cost: 38,
         //DOMAIN
