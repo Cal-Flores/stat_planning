@@ -24,7 +24,7 @@
         //SPEED / LUCK
         accuracy: 7,
         evasion: 3,
-        luck: 7,
+        luck: 4,
         stun: .08,
         //GENJUTSU
         genjutsu: 3,

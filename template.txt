@@ -6,40 +6,35 @@
 
 
 
-
-
-
-
 ADVANCED (4):
-Weapon
-Evasion
-Magic
+weapon
+magic defense
+luck
+Recovery
 
 ABOVE (3):
-Attack
-Accuracy
-Luck
+accuracy
+drain
 
 MID(3)
-Purity
-Genjutsu
-Drain
+curse
+evasion
+attack
 
 BELOW(3):
-Defense
-Curse
-Recovery
-Shield
+defense
+Magic
+ negative
 
 DOGWATER(4):
-Magic Defense
-Willpower
-Negative
-Domain
+willpower
+purity
+shield
+domain
 
 
 AWAKEN(opt):
-
+genjutsu
 
 
  {
@@ -108,3 +103,22 @@ AWAKEN(opt):
         buff2_acc: 0,
         image: 'https://static.wikia.nocookie.net/hunterxhunter/images/6/60/HxH2011_EP41_Uvogin_Portrait.png/revision/latest?cb=20230122192913'
     },
+
+
+
+
+
+
+
+
+
+
+attack  defense
+weapon  shield
+Magic   magic defense
+genjutsu    willpower
+domain      purity
+accuracy    evasion
+Recovery    drain
+curse       negative
+luck
