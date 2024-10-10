@@ -37,10 +37,10 @@ let hanzo =
     cursed_energy: 0,
     cursed_recovery: 17,
     negative_energy: 23,
-    cursed_tech: '',
-    curse_amount: 0,
-    curse_duration: 0,
-    curse_cost: 0,
+    cursed_tech: 'Reverse-Flow-Recovery - Double Chakra Recovery',
+    curse_amount: 6,
+    curse_duration: 6,
+    curse_cost: 12,
     //DOMAIN
     dom_purity: 2,
     dom_lethal: 0,
@@ -48,7 +48,7 @@ let hanzo =
     dom_cost: 0,
     //NINJUTSU
     ninjutsu2: 'Hidden-Blades - Increase Attack by 10%',
-    ninJutsu2cost: 16,
+    ninJutsu2cost: 14,
     ninJutsu2Dmg: 125,
     nin2amount: .10,
     ninEnhance: true,
