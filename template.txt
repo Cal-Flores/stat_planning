@@ -1,76 +1,38 @@
     STATS:
 
-<<<<<<< HEAD
 
 
-ADVANCED (4):
-Defense
-Shield
+
+ADVANCED (3):
 Weapon
-
+Luck
+curse
 
 ABOVE (3):
-Attack
-Magic Defense
 Curse
-
+Attack
+Defense
 
 MID(3):
-Luck
-Recovery
-Negative
-Drain
-
-
-BELOW(3):
-Evasion
-Domain
-Purity
-
-
-DOGWATER(4):
+Shield
 Accuracy
-Genjutsu
-Magic
-Willpower
+Evasion
 
-=======
-
-
-
-ADVANCED (4):
-weapon
-attack
-evasion
-
-
-ABOVE (3):
-willpower
-purity
-
-
-MID(3)
-defense
-shield
-accuracy
-Recovery
 
 BELOW(3):
-magic defense
-evasion
-drain
-Magic
+Magic Defense
+Willpower
+Recovery
 
 DOGWATER(4):
-domain
-genjutsu
-negative
-luck
->>>>>>> 530a0928f34e64ed1211d6a03fd8aaf94cac2673
-
+Magic
+Domain
+Drain
+Negative
+Genjutsu
 
 AWAKEN(opt):
-curse
+Purity
 
 
  {
