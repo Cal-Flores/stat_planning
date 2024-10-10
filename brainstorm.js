@@ -98,3 +98,10 @@ Negative
 
 
 Ninjutsu - Damage - 600 | 250 | 195 | 165 | 135
+
+// curse duration 6 = 3 turns | 8 = 4 turns
+// crit, potency, curse crit,
+percent_attacks - .80 | .60 | .25 | .20 | .10
+
+// strength effiecieny
+2 | 1.75 | 1.5 | 1.3 | 1.2
