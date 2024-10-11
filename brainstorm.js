@@ -21,7 +21,7 @@ Shield
 Magic
 Magic - Defense
 
-Luck - 13 | 10 | 6 | 4 | 2
+Luck - 13 (high-tier) | 10 | 6 | 4 | 2
 Genjutsu
 Willpower
 Purity
@@ -39,7 +39,7 @@ Negative
 Ninjutsu - Damage - 600 | 250 | 195 | 165 | 135
 
 // curse duration 6 = 3 turns | 8 = 4 turns
-// crit, potency, curse crit,
+// crit, potency,
 percent_attacks - .80 | .60 | .25 | .20 | .10
 
 // strength effiecieny
