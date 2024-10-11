@@ -82,7 +82,6 @@ NINJUTSU && EMISSION
     1. Obito
     2. Hashirama
     3. Kisame
-    4. Amaterasu Sasuke -R
     5. Itachi -R
     6. Yamato -R
     7. Kakazu -R
@@ -199,3 +198,6 @@ BALANCED && SPECIAL
     1. Madara
     2. Ging
     3. kite
+
+emission && def:
+    1. Amaterasu Sasuke
