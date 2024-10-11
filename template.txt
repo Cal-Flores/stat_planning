@@ -2,31 +2,32 @@
 
 
 ADVANCED (4):
+Recovery
 Magic
-Willpower
-Defense
+Accuracy
 
 ABOVE (3):
-Shield
-Accuracy
-Purity
-
-MID(3)
+Evasion
 M Def
-Recovery
 Genjutsu
 
-BELOW(3):
-Evasion
+MID(3)
+Willpower
 Drain
-Weapon
+
+BELOW(3):
 Attack
+Defense
+Shield
+Weapon
 
 DOGWATER(4):
+Purity
 Domain
 Luck
-Curse
 Negative
+Curse
+
 
 AWAKEN(opt):
 
