@@ -4,6 +4,9 @@
 ADVANCED (4):
 Magic
 Luck
+Negative
+Curse
+
 
 
 ABOVE (3):
