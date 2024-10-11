@@ -63,6 +63,6 @@
         buff2: 'Decrease Will Power by 4',
         buff_acc: 70,
         buff2_acc: 60,
-        image: 'https://i.pinimg.com/736x/e6/96/43/e6964375383d77adfa552aaffc174e84.jpg'
+        image: ''
     },
 ]
