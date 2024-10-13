@@ -63,7 +63,7 @@ CURSE TOOL && CURSE
 CURSE TOOL && EMISSION
     2. Pokkle -R
     3. Suigetsu -R
-    4. Franklin -R
+
     5. Temari -R
     6. Nobara -R
 
@@ -201,3 +201,4 @@ BALANCED && SPECIAL
 
 emission && def:
     1. Amaterasu Sasuke
+    4. Franklin -R
