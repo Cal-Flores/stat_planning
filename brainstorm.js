@@ -14,7 +14,7 @@ STATS:
 
 
 
-
+attack - 285 | 240 | 200 | 185 | 140
 Defense
 weapon
 Shield
