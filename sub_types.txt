@@ -25,7 +25,6 @@ ATTACK && NINJUTSU
 
 ATTACK && SPEED
     1. Adult Gon
-    2. Neji
     3. Neferpitou -R
     4. Porco -R
     5. Chakra Naruto -R
