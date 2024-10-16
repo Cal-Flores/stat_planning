@@ -6,10 +6,10 @@
         elm: earth,
         hp: 2992,
         //PHYSICAL
-        attack: 238,
+        attack: 231,
         defense: 188,
         critical: .60,
-        strength: 1.35,
+        strength: 1.25,
         //MAGIC
         elm_attack: 218,
         elm_defense: 196,
@@ -38,7 +38,7 @@
         cursed_recovery: 15,
         negative_energy: 14,
         cursed_tech: 'Granite-Blast',
-        curse_amount: 300,
+        curse_amount: 260,
         curse_duration: 1,
         curse_cost: 18,
         //DOMAIN
@@ -47,10 +47,10 @@
         dom_duration: 6,
         dom_cost: 30,
         //NINJUTSU
-        ninjutsu2: 'C3 - Increase Attack by 8%',
-        ninJutsu2cost: 12,
+        ninjutsu2: 'C3 - Increase Attack by 5%',
+        ninJutsu2cost: 15,
         ninJutsu2Dmg: 145,
-        nin2amount: .08,
+        nin2amount: .05,
         ninEnhance: true,
         //ULTIMATE
         ninjutsu: "C4 Karura - Increase Lethal by 20",

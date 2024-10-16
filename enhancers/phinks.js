@@ -49,7 +49,7 @@
         //NINJUTSU
         ninjutsu2: 'Ripper-Cyclotron',
         ninJutsu2cost: 15,
-        ninJutsu2Dmg: 185,
+        ninJutsu2Dmg: 250,
         nin2amount: 0,
         ninEnhance: false,
         //ULTIMATE
