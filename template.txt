@@ -6,37 +6,36 @@
 //
 //
 //
-//
+//       Domain
 //
 //
 //
 
 ADVANCED (4):
-Genjutsu
 Recovery
-Domain
-Curse
+Genjutsu
 
 ABOVE (3):
 Luck
-Attack
 Magic Defense
+Curse
+Drain
 
 MID(3)
 Magic
-Shield
- Drain
-  Negative
+Accuracy
+Evasion
 
 BELOW(3):
-Purity
+Shield
 Willpower
-weapon
-Defense
+Negative
 
 DOGWATER(4):
-Evasion
-Accuracy
+Attack
+weapon
+Defense
+Domain
 
 AWAKEN(opt):
 
