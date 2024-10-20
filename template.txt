@@ -2,34 +2,34 @@
 
 
 ADVANCED (4):
-Attack
+Genjutsu
+Domain
+Willpower
+Purity
 Recovery
-Accuracy
 
 ABOVE (3):
-Purity
-Willpower
+Evasion
+Weapon
+Accuracy
 
 MID(3)
-Defense
-Shield
+Luck
+Drain
 Magic Defense
+Shield
 
 BELOW(3):
-
+Defense
+Attack
+Magic
 
 DOGWATER(4):
-Drain
 Curse
-Luck
-Magic
-Weapon
-Domain
 Negative
-Genjutsu
 
 AWAKEN(opt):
-Evasion
+
 
 
  {
