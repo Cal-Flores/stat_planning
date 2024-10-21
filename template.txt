@@ -1,4 +1,6 @@
     STATS:
+
+
 //
 //
 //
@@ -10,34 +12,34 @@
 //
 
 ADVANCED (4):
-Magic
-Magic Defense
 Defense
+Magic Defense
+Shield
 
 ABOVE (3):
-Curse
+Attack
 
 
 MID(3)
-Accuracy
-Rec
-Attack
+Purity
+Luck
+Drain
 
 BELOW(3):
-weapon
-Evasion
-Shield
- Drain
-  Negative
+Willpower
+Ninjutsu
+Curse
+ Negative
 
 DOGWATER(4):
-Domain      Domain
-Luck
+Magic
+weapon
 Genjutsu
-Willpower
+Domain
+Evasion
 
 AWAKEN(opt):
-
+Accuracy
 
 
  {
