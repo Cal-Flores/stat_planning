@@ -12,7 +12,7 @@
         strength: 1.85,
         //MAGIC
         elm_attack: 244,
-        elm_defense: 270,
+        elm_defense: 288,
         elm_efficiency: 1.2,
         potency: .20,
         //WEAPON
