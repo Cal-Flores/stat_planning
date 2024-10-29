@@ -1,43 +1,5 @@
-    STATS:
-
-//
-//
-//
-//
-//
-//
-//
-//     Drain
-//        Negative
-
-ADVANCED (4):
-weapon
-Evasion
-Accuracy
-
-ABOVE (3):
-Luck        Luck
-Ninjutsu
-
-MID(3)
-Curse
-Shield
-
-BELOW(3):
-Defense
- Magic Defense
-
-DOGWATER(4):
- Domain      Domain
- Willpower
-  Genjutsu
-  Magic
-
-AWAKEN(opt):
-Attack
-
-
- {
+[
+    {
         name: '',
         nen_type: '',
         element: 'Earth',
@@ -56,7 +18,7 @@ Attack
         //WEAPON
         weapon: 0,
         shield: 0,
-        curse_crit:0.0,
+        curse_crit: 0.0,
         weaponCurse: '',
         weapon_amount: 0,
         //SPEED / LUCK
@@ -103,3 +65,5 @@ Attack
         buff2_acc: 0,
         image: 'https://static.wikia.nocookie.net/hunterxhunter/images/6/60/HxH2011_EP41_Uvogin_Portrait.png/revision/latest?cb=20230122192913'
     },
+
+]
