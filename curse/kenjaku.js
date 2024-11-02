@@ -1,41 +1,10 @@
-    STATS:
-//       Defense
-// weapon      Shield
-//        Magic Defense
-// Luck        Luck
-// Genjutsu    Willpower
-// Domain      Domain
-// Evasion     Accuracy
-//   Drain
-//        Negative
-
-ADVANCED (4):
-Ninjutsu
-Curse
-Magic
-
-ABOVE (3):
-
-
-MID(3)
-
-
-BELOW(3):
-
-
-DOGWATER(4):
-Attack
-
-AWAKEN(opt):
-
-
-
- {
-        name: '',
-        nen_type: '',
-        element: 'Earth',
-        elm: earth,
-        hp: 3000,
+[
+    {
+        name: 'Kenjaku',
+        nen_type: 'Manipulator',
+        element: 'Dark',
+        elm: dark,
+        hp: 3266,
         //PHYSICAL
         attack: 0,
         defense: 0,
@@ -49,7 +18,7 @@ AWAKEN(opt):
         //WEAPON
         weapon: 0,
         shield: 0,
-        curse_crit:0.0,
+        curse_crit: 0.0,
         weaponCurse: '',
         weapon_amount: 0,
         //SPEED / LUCK
@@ -96,3 +65,5 @@ AWAKEN(opt):
         buff2_acc: 0,
         image: 'https://static.wikia.nocookie.net/hunterxhunter/images/6/60/HxH2011_EP41_Uvogin_Portrait.png/revision/latest?cb=20230122192913'
     },
+
+]
