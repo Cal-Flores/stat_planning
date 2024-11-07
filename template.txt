@@ -7,32 +7,31 @@
 //
 //
 //
-//
+//        Negative
 
 ADVANCED (4):
-Magic
+Genjutsu
 Domain      Domain
+Evasion
 Curse
 
 ABOVE (3):
-Weapon
+Magic
 Magic Defense
-Accuracy
-Ninjutsu
+Luck        Luck
 
 MID(3)
-Luck        Luck
-Genjutsu    Willpower
-Evasion
+ Accuracy
+ Willpower
+ Ninjutsu    Drain
 
 BELOW(3):
 Defense
 Shield
-Drain
 
 DOGWATER(4):
 Attack
-Negative
+weapon
 
 AWAKEN(opt):
 
