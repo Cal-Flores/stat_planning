@@ -1,6 +1,6 @@
 [
     {
-        name: 'Kaguya',
+        name: 'Kaguyakkkjhgvg',
         nen_type: 'Conjuror',
         element: 'Holy',
         elm: holy,
