@@ -2,40 +2,38 @@
 //
 //
 //
-
 //
 //
 //
 //
-//    Drain
+//
+//     Drain
 //        Negative
 
 ADVANCED (4):
-Magic
-Domain      Domain
- Accuracy
+spirit
+spiritDef
+Ninjutsu
+Curse
 
 ABOVE (3):
-Defense
- Magic Defense
- Ninjutsu
- Curse
+weapon
+Luck        Luck
+Evasion
 
 MID(3)
-
+Shield
+Accuracy
 
 BELOW(3):
-weapon
-spiritDef
-Shield
-Genjutsu
-Willpower
+Magic Defense
+Genjutsu    Willpower
+Domain      Domain
 
 DOGWATER(4):
 Attack
-Spirit
-Luck
-Evasion
+Magic
+Defense
 
 AWAKEN(opt):
 
@@ -63,6 +61,12 @@ AWAKEN(opt):
         curse_crit:0.0,
         weaponCurse: '',
         weapon_amount: 0,
+        //SPIRIT
+        spirit: 0,
+        spirit_def: 0,
+        spirit_crit: .15,
+        spiritCurse: 'Damage',
+        spirit_amount: 100,
         //SPEED / LUCK
         accuracy: 0,
         evasion: 0,
