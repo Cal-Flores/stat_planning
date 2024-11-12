@@ -2,31 +2,40 @@
 //
 //
 //
+
 //
 //
-//     Drain
-//       Negative
+//
+//
+//    Drain
+//        Negative
 
 ADVANCED (4):
+Magic
 Domain      Domain
-Curse
-Ninjutsu
+ Accuracy
 
 ABOVE (3):
-Magic Defense
-Luck        Luck
+Defense
+ Magic Defense
+ Ninjutsu
+ Curse
 
 MID(3)
-Defense
-Evasion     Accuracy
+
 
 BELOW(3):
-Attack
-Shield
-Magic
 weapon
-DOGWATER(4):
+spiritDef
+Shield
+Genjutsu
+Willpower
 
+DOGWATER(4):
+Attack
+Spirit
+Luck
+Evasion
 
 AWAKEN(opt):
 
