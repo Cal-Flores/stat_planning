@@ -1,49 +1,10 @@
-    STATS:
-//
-//
-//
-//
-//
-//
-//
-//
-//     Drain
-//       Negative
-
-ADVANCED (4):
-weapon
-spirit
-
-ABOVE (3):
-Curse
-Shield
-Ninjutsu
-
-MID(3)
-Magic Defense
-Evasion     Accuracy
-
-BELOW(3):
-spiritDef
-Defense
-Luck        Luck
-Domain      Domain
-
-DOGWATER(4):
-Attack
-Magic
-Genjutsu    Willpower
-
-AWAKEN(opt):
-
-
-
- {
-        name: '',
-        nen_type: '',
-        element: 'Earth',
-        elm: earth,
-        hp: 3000,
+[
+    {
+        name: 'Geto',
+        nen_type: 'Conjuror',
+        element: 'Ghost',
+        elm: ghost,
+        hp: 3455,
         //PHYSICAL
         attack: 0,
         defense: 0,
@@ -57,9 +18,15 @@ AWAKEN(opt):
         //WEAPON
         weapon: 0,
         shield: 0,
-        curse_crit:0.0,
+        curse_crit: 0.0,
         weaponCurse: '',
         weapon_amount: 0,
+        //SPIRIT
+        spirit: 0,
+        spirit_def: 0,
+        spirit_crit: .15,
+        spiritCurse: 'Damage',
+        spirit_amount: 100,
         //SPEED / LUCK
         accuracy: 0,
         evasion: 0,
@@ -104,3 +71,5 @@ AWAKEN(opt):
         buff2_acc: 0,
         image: 'https://static.wikia.nocookie.net/hunterxhunter/images/6/60/HxH2011_EP41_Uvogin_Portrait.png/revision/latest?cb=20230122192913'
     },
+
+]
