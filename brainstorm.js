@@ -3,6 +3,7 @@ STATS:
 // Attack      Defense
 // weapon      Shield
 // Magic       Magic Defense
+// Spirit      SpiritDef
 // Luck        Luck
 // Genjutsu    Willpower
 // Domain      Domain
@@ -21,7 +22,7 @@ Shield
 Magic
 Magic - Defense
 
-Luck - 13 (high-tier) | 10 | 6 | 4 | 2
+Luck - 13(high - tier) | 10 | 6 | 4 | 2
 Genjutsu
 Willpower
 Purity
@@ -32,7 +33,7 @@ Accuracy
 Recovery - 12 | 8 | 5 | 4 | 3
 Drain
 
-Curse - 70 (Gojo-level)| 52 | 35 | 28 | 20
+Curse - 70(Gojo - level) | 52 | 35 | 28 | 20
 Negative
 
 
