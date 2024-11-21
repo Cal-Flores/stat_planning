@@ -1,41 +1,10 @@
-    STATS:
-// Attack      Defense
-// weapon      Shield
-// Magic       Magic Defense
-// Spirit      SpiritDef
-// Luck        Luck
-// Genjutsu    Willpower
-// Domain      Domain
-// Evasion     Accuracy
-// Ninjutsu    Drain
-// Curse       Negative
-
-
-ADVANCED (4):
-
-
-ABOVE (3):
-
-
-MID(3)
-
-
-BELOW(3):
-
-
-DOGWATER(4):
-
-
-AWAKEN(opt):
-
-
-
- {
-        name: '',
-        nen_type: '',
-        element: 'Earth',
-        elm: earth,
-        hp: 3000,
+[
+    {
+        name: 'Mechamaru',
+        nen_type: 'Manipulator',
+        element: 'Holy',
+        elm: holy,
+        hp: 3174,
         //PHYSICAL
         attack: 0,
         defense: 0,
@@ -49,7 +18,7 @@ AWAKEN(opt):
         //WEAPON
         weapon: 0,
         shield: 0,
-        curse_crit:0.0,
+        curse_crit: 0.0,
         weaponCurse: '',
         weapon_amount: 0,
         //SPIRIT
@@ -90,7 +59,7 @@ AWAKEN(opt):
         nin2amount: 0,
         ninEnhance: false,
         //ULTIMATE
-        ninjutsu: "",
+        ninjutsu: "Pigeon-Viola - Sacrife Curse Rec but eleminate Recovery",
         nin_cost: 0,
         ninjutsu_pow: 0,
         ninamount: 0,
@@ -102,3 +71,5 @@ AWAKEN(opt):
         buff2_acc: 0,
         image: 'https://static.wikia.nocookie.net/hunterxhunter/images/6/60/HxH2011_EP41_Uvogin_Portrait.png/revision/latest?cb=20230122192913'
     },
+
+]
