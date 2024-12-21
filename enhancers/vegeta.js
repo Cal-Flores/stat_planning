@@ -18,7 +18,7 @@
         //WEAPON
         weapon: 108,
         shield: 164,
-        curse_crit: .12,
+        curse_crit: .11,
         weaponCurse: 'Defense',
         weapon_amount: 13,
         //SPIRIT
