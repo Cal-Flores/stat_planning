@@ -26,7 +26,7 @@
         spirit_def: 235,
         spirit_crit: .15,
         spiritCurse: 'Health',
-        spirit_amount: 50,
+        spirit_amount: 55,
         //SPEED / LUCK
         accuracy: 6,
         evasion: 7,
