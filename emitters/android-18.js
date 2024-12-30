@@ -1,38 +1,6 @@
-    STATS:
-// Attack      Defense
-// weapon      Shield
-// Magic       Magic Defense
-// Spirit      SpiritDef
-// Luck        Luck
-// Genjutsu    Willpower
-// Domain      Domain
-// Evasion     Accuracy
-// Ninjutsu    Drain
-// Curse       Negative
-
-
-ADVANCED (4):
-
-
-ABOVE (3):
-
-
-MID(3)
-
-
-BELOW(3):
-
-
-DOGWATER(4):
-
-
-
-AWAKEN(opt):
-
-
-
- {
-        name: '',
+[
+    {
+        name: 'Android 18',
         nen_type: '',
         element: 'Earth',
         elm: earth,
@@ -50,7 +18,7 @@ AWAKEN(opt):
         //WEAPON
         weapon: 0,
         shield: 0,
-        curse_crit:0.0,
+        curse_crit: 0.0,
         weaponCurse: '',
         weapon_amount: 0,
         //SPIRIT
@@ -101,5 +69,7 @@ AWAKEN(opt):
         buff2: '',
         buff_acc: 0,
         buff2_acc: 0,
-        image: 'https://static.wikia.nocookie.net/hunterxhunter/images/6/60/HxH2011_EP41_Uvogin_Portrait.png/revision/latest?cb=20230122192913'
+        image: ''
     },
+
+]
