@@ -43,7 +43,7 @@
         cursed_energy: 0,
         cursed_recovery: 20,
         negative_energy: 10,
-        cursed_tech: ' Increase Evasion',
+        cursed_tech: 'Increase Evasion',
         curse_amount: 7,
         curse_duration: 6,
         curse_cost: 26,

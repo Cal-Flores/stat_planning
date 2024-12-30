@@ -7,34 +7,34 @@
 //
 //
 //
-//   Drain
-//   Negative
+//    Drain
+//       Negative
 
 
 ADVANCED (4):
 Attack
-
-ABOVE (3):
 Spirit
-SpiritDef
 Evasion
 
-MID(3)
-weapon
-Shield
-Domain
+ABOVE (3):
+SpiritDef
 Accuracy
+
+MID(3)
+Ninjutsu
+Curse 
 
 BELOW(3):
 Defense
-Magic Defense
+Shield
+Luck
+Domain
 Willpower
-Ninjutsu
- Curse    
 
 DOGWATER(4):
+weapon
 Magic
-Luck
+Magic Defense
 Genjutsu
 
 
