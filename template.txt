@@ -1,30 +1,41 @@
     STATS:
-// Attack      Defense
-// weapon      Shield
-// Magic       Magic Defense
-// Spirit      SpiritDef
-// Luck        Luck
-// Genjutsu    Willpower
-// Domain      Domain
-// Evasion     Accuracy
-// Ninjutsu    Drain
-// Curse       Negative
+//
+//
+//
+//
+//
+//
+//
+//
+//   Drain
+//    Negative
 
 
 ADVANCED (4):
-
+Attack
+Magic
 
 ABOVE (3):
+ Magic Defense
+ Luck        Luck
 
+  Ninjutsu
 
 MID(3)
-
+Evasion
+ Accuracy
 
 BELOW(3):
-
+ Defense
+  Shield
+  SpiritDef
+  Genjutsu    Willpower
+  Domain      Domain
+   Curse   
 
 DOGWATER(4):
-
+weapon
+Spirit
 
 
 AWAKEN(opt):
