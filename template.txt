@@ -5,76 +5,80 @@
 //
 //
 //
+
 //
-//
-//   Drain
-//    Negative
+//     Drain
+//       Negative
+
 
 
 ADVANCED (4):
-Attack
-Magic
+weapon
+Defense
 
 ABOVE (3):
- Magic Defense
- Luck        Luck
+Luck        Luck
+Ninjutsu
 
-  Ninjutsu
-
-MID(3)
-Evasion
- Accuracy
+MID(3):
+Magic Defense
+SpiritDef
 
 BELOW(3):
- Defense
-  Shield
-  SpiritDef
-  Genjutsu    Willpower
-  Domain      Domain
-   Curse   
+Evasion     Accuracy
+Ward
+Curse 
 
 DOGWATER(4):
-weapon
+Attack
+ Magic
 Spirit
-
+Shield
+Alchemy
+// Genjutsu    Willpower
+// Domain      Domain
 
 AWAKEN(opt):
 
 
 
- {
+  {
         name: '',
         nen_type: '',
-        element: 'Earth',
+        element: '',
         elm: earth,
         hp: 3000,
+        id: 0,
+        team: '',
+        round: 0,
+        pick: 0,
         //PHYSICAL
         attack: 0,
         defense: 0,
-        critical: 0.0,
-        strength: 0.0,
+        critical: 0,
+        strength: 0,
         //MAGIC
         elm_attack: 0,
-        elm_defense: 0,
-        elm_efficiency: 0.0,
-        potency: 0.0,
+        elm_defense:0 ,
+        elm_efficiency: 0,
+        potency: 0,
         //WEAPON
         weapon: 0,
         shield: 0,
-        curse_crit:0.0,
+        curse_crit: 0,
         weaponCurse: '',
         weapon_amount: 0,
         //SPIRIT
         spirit: 0,
-        spirit_def: 0,
-        spirit_crit: .0,
+        spirit_def:0 ,
+        spirit_crit:0 ,
         spiritCurse: '',
         spirit_amount: 0,
         //SPEED / LUCK
-        accuracy: 0,
+        accuracy:0 ,
         evasion: 0,
         luck: 0,
-        stun: 0,
+        stun:0 ,
         //GENJUTSU
         genjutsu: 0,
         gen_power: 0,
@@ -86,7 +90,7 @@ AWAKEN(opt):
         cursed_energy: 0,
         cursed_recovery: 0,
         negative_energy: 0,
-        cursed_tech: '',
+        cursed_tech: 'code soon',
         curse_amount: 0,
         curse_duration: 0,
         curse_cost: 0,
@@ -96,21 +100,36 @@ AWAKEN(opt):
         dom_duration: 0,
         dom_cost: 0,
         //NINJUTSU
-        ninjutsu2: '',
+        ninjutsu2: 'code soon',
         ninJutsu2cost: 0,
         ninJutsu2Dmg: 0,
         nin2amount: 0,
         ninEnhance: false,
         //ULTIMATE
-        ninjutsu: "",
+        ninjutsu: "code soon",
         nin_cost: 0,
         ninjutsu_pow: 0,
         ninamount: 0,
-        ultEnhance: false,
+        ultEnhance: true,
+        //ALCHEMY SYSTEM
+        alchemy: 0, // strong raw power
+        ward: 0,
+        blueprint: {
+            defense: { min: 160 },
+        },
+        active_slots: 0,
+        transmutation: 0,
+        precision: 0,
+        control: 0,
+        reconstruction: 0,
+        deconstruction: 1,
+        combustion: .0,
         //BUFFS
+        intelligence: 0,
+        vitality: 0,
         buff: '',
         buff2: '',
         buff_acc: 0,
         buff2_acc: 0,
-        image: 'https://static.wikia.nocookie.net/hunterxhunter/images/6/60/HxH2011_EP41_Uvogin_Portrait.png/revision/latest?cb=20230122192913'
-    },
+        image: ''
+    }

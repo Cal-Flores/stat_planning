@@ -1,0 +1,42 @@
+// alchemy: 242, // base alchemy attack stat (like "attack")
+// ward: 104, // Edward’s resistance to incoming alchemy
+// blueprint: {
+//     weapon: { min: 200 },
+//     shield: { min: 180 },
+//     vitality: { min: 0.4 },
+//     potency: { min: 0.2 },
+//     elm_attack: { max: 70 },
+//     defense: { max: 50 },
+//     critical: { max: .01 },
+//     evasion: { max: 8 },
+//     spirit: { max: 230 },
+//     active_slots: 0 // how many blueprint conditions are active this round
+// },
+// transmutation: 35, // multiplier per successful blueprint match
+// precision: 0.94, // lower = less likely to misfire (buff opponent)
+// control: 0.05, // adds risk for each active blueprint slot over 1
+// reconstruction: 150,
+// deconstruction: 1.25,
+// combustion: .25,
+
+ALCHEMY TYPES
+
+1. Cannary
+2. Edward
+3. Alphonse
+4. Scar       | Low: Combustion, Precision, Recon, Control, Blueprint | Alch, Trans, deconstruction
+5. Alex Louis
+6. Lust
+7. Greed
+8. Roy
+9. Gluttony
+10. Envy
+11. Izumi
+12. Hohenheim
+13. May
+
+1. Shikamaru
+2. Rage Tobi
+3. Hanzo
+4. Shalnark
+5. Orochimaru

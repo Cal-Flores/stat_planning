@@ -4,12 +4,14 @@ STATS:
 // weapon      Shield
 // Magic       Magic Defense
 // Spirit      SpiritDef
+// Alchemy     Ward
 // Luck        Luck
 // Genjutsu    Willpower
 // Domain      Domain
 // Evasion     Accuracy
 // Ninjutsu    Drain
 // Curse       Negative
+//
 
 
 

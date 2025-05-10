@@ -1,0 +1,35 @@
+                                avg
+attack: 270 | 249 | 233 | 213 | 179 | 145
+magic:  268 | 251 | 233 | 200 | 166 | 144
+weapon: 272 | 254 | 233 | 220 | 194 | 160
+spirit: 265 | 235 | 203 | 176 | 149 | 130
+
+defen:  240 | 228 | 214 | 198 | 179 | 165
+m.def:  250 | 233 | 225 | 201 | 184 | 170
+shield: 238 | 226 | 207 | 188 | 174 | 161
+talis:  247 | 230 | 209 | 194 | 181 | 174
+
+
+Weapon Users:
+Gotoh   | Attack | .40 | 10 | 249
+Stark   | Damage | .18 | 2  | 255
+Kikoru  | Shield | .20 | 16 | 260
+Riza    | Mg/alc | .22 | 10 | 251
+Olivier | Damage | .33 | 1.5| 271
+Ling    | Stun   | .22 | -  | 257
+Soshiro | Shield | .60 | 7  | 264
+
+
+Attackers:
+
+Cell        | 277 | .27 | 1.75 |
+Freiza      | 243 | .35 | 1.39 |
+Kaiju No 8. | 265 | .18 | 2.55 |
+
+
+Mages
+
+Frieren     | 325 | 23 | 1
+Fern        | 270 | 22 | 1
+Gray        | 259 | 26 | 1.6
+Reno        | 252 | 32 | 1.45
